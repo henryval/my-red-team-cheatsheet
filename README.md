@@ -39,4 +39,11 @@ Tool []()
 ## Mail checklist
 
 
+## BloodHound Custom Query
+
+Bloodhound query to mark multiple users as owned.
+
+```MATCH (m:User) WHERE m.name =~ '.*(USER_1|USER_2|USER_3|USER_4|USER_ALWAYS_IN_CAPITAL).*' SET m.owned=TRUE```
+
+If you need machines just change m:Computer.
 
