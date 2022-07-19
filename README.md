@@ -47,3 +47,13 @@ Bloodhound query to mark multiple users as owned.
 
 If you need machines just change m:Computer.
 
+### Cool resources
+
+https://unprotect.it/
+https://github.com/vxunderground/MalwareSourceCode
+https://lots-project.com/
+https://filesec.io/
+https://malapi.io/
+https://breachdirectory.org/
+https://analyze.intezer.com/
+
